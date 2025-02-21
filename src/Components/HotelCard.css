@@ -1,7 +1,7 @@
 .hotel-card {
     background: #fff;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(63, 20, 20, 0.1);
     overflow: hidden;
     width: 300px;
     transition: transform 0.3s ease-in-out;
